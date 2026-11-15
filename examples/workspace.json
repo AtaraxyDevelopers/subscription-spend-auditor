@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "project": "subscription-spend-auditor",
+  "settings": {
+    "currency": "USD",
+    "windowDays": 30
+  },
+  "records": [
+    {
+      "id": "sub-1",
+      "name": "Example CRM",
+      "billing": "monthly",
+      "cost": 200,
+      "seats": 10,
+      "activeSeats": 6,
+      "renewal": "2026-11-25",
+      "category": "sales",
+      "cancellable": true
+    },
+    {
+      "id": "sub-2",
+      "name": "Example Design",
+      "billing": "annual",
+      "cost": 1200,
+      "seats": 5,
+      "activeSeats": 5,
+      "renewal": "2027-01-01",
+      "category": "design",
+      "cancellable": true
+    }
+  ]
+}
