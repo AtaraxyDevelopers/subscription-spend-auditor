@@ -1,6 +1,6 @@
 {
   "name": "@ataraxydevelopers/subscription-spend-auditor",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "type": "module",
   "description": "Review unused seats and upcoming renewals before more money is committed.",

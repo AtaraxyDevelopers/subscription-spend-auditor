@@ -1,3 +1,5 @@
+<p><a href="https://ataraxydevelopers.com"><img src="public/ataraxy-developers-logo.png" alt="Ataraxy Developers — Turning Digital Visions Into Reality" width="520"></a></p>
+
 # Subscription Spend Auditor
 
 [![CI](https://github.com/AtaraxyDevelopers/subscription-spend-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/AtaraxyDevelopers/subscription-spend-auditor/actions/workflows/ci.yml)
